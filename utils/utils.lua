@@ -1,3 +1,10 @@
+------------------------------------------------
+--------Coodeez Developer-----------------------
+------------------------------------------------
+
+--  You dont need this but you can use it.
+
+
 -- PlayerPed = nil;
 -- PlayerUtilId = nil;
 -- PlayerCoords = nil;
